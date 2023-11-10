@@ -24,8 +24,14 @@ for temporal network mining---ranging from the computation of temporal centralit
 measures, temporal motif counting, and temporal communities to bursty events and 
 anomaly detection. 
 
+#### Teaser Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wJ8gwGiDz6E" target="_blank">
+ <img src="http://img.youtube.com/vi/wJ8gwGiDz6E/mqdefault.jpg" alt="Watch the teaser video" width="240" height="180" border="10" />
+</a>
 
-[Previous editions at KDD 2019 and the EDBT19 summer school.](https://rozensp.github.io/KDD19-tutorial-temporal/)
+
+#### Previous Editions
+[Website of the previous editions at KDD 2019 and the EDBT19 summer school.](https://rozensp.github.io/KDD19-tutorial-temporal/)
 
 ## Tutorial Content
 
