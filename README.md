@@ -26,7 +26,7 @@ anomaly detection.
 
 #### Teaser Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wJ8gwGiDz6E" target="_blank">
- <img src="http://img.youtube.com/vi/wJ8gwGiDz6E/mqdefault.jpg" alt="Watch the teaser video" width="240" height="180" border="10" />
+ <img src="http://img.youtube.com/vi/wJ8gwGiDz6E/mqdefault.jpg" alt="Watch the teaser video" width="360" height="160" />
 </a>
 
 
@@ -90,7 +90,7 @@ He has been a fellow in the ISI foundation, Turin, and a visiting professor in t
 been a senior research scientist and group leader. He obtained his
 PhD in 2003 from Stanford University, USA. 
 He is currently serving as an action editor in the 
-Data Management and Knowledge Discovery journal (DMKD),  
+Data Management and Knowledge Discovery journal (DMKD), 
 and an associate editor in the ACM Transactions on the Web (TWEB). 
 He has contributed in several areas of data science, such as algorithmic data
 analysis, web mining, social-media analysis, data clustering, and
