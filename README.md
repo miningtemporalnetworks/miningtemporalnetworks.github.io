@@ -108,7 +108,7 @@ as well as in many summer schools,
 including the EDBT Summer School 2019 and the Hi! Paris Data Science Summer School 2022.
 
 ### Lutz Oettershagen
-Lutz Oettershagen is a postdoctoral researcher in the Division of  
+Lutz Oettershagen is a postdoctoral researcher in the Division of 
 Theoretical Computer Science at KTH Royal Institute of Technology in 
 Stockholm, Sweden. He has been a postdoctoral researcher at the University 
 of Bonn in Germany, where he also obtained his PhD. He obtained his master's 
@@ -116,6 +116,8 @@ degree at the TU University of Dortmund. His main research interests are
 algorithmic data analysis and data mining on temporal networks, focusing 
 on social networks. In recent works, he covers temporal centrality measures, 
 community search, and tie strength inference in temporal networks.
+
+[Website](https://lutzoe.github.io/)
 
 
 ### Ilie Sarpe
