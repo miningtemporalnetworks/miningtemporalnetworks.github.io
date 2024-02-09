@@ -346,10 +346,6 @@ in temporal networks.
  Patrick Mackey and Katherine Porterfield and Erin Fitzhenry and Sutanay Choudhury and George Chin.  
  2018 IEEE International Conference on Big Data (Big Data). 2018.  
 [10.1109/bigdata.2018.8622100](https://doi.org/10.1109/bigdata.2018.8622100)
-- **Networks**.  
- Mark Newman.  
- . 2018.  
-[10.1126/science.335.6071.889-b](https://doi.org/10.1126/science.335.6071.889-b)
 - **Community discovery in dynamic networks: a survey**.  
  Rossetti, Giulio and Cazabet, R\'emy.  
  ACM Computing Surveys (CSUR). 2018.  
