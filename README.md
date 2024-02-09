@@ -1,5 +1,5 @@
 # Mining Temporal Networks
-### Tutorial proposed for the Web Conference 2024
+### Tutorial at the [The Web'Conf 2024](https://www2024.thewebconf.org/)
 
  In World Wide Web (WWW) systems, networks (or graphs) serve as a fundamental 
  tool for representing,  analyzing, and understanding linked data, providing 
