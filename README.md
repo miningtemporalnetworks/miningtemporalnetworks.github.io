@@ -24,8 +24,14 @@ for temporal network mining---ranging from the computation of temporal centralit
 measures, temporal motif counting, and temporal communities to bursty events and 
 anomaly detection. 
 
+#### Teaser Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wJ8gwGiDz6E" target="_blank">
+ <img src="http://img.youtube.com/vi/wJ8gwGiDz6E/mqdefault.jpg" alt="Watch the teaser video" width="360" height="160" />
+</a>
 
-[Previous editions.](https://rozensp.github.io/KDD19-tutorial-temporal/)
+
+#### Previous Editions
+[Website of the previous editions.](https://rozensp.github.io/KDD19-tutorial-temporal/)
 
 ## Tutorial Content
 
@@ -71,7 +77,7 @@ anomaly detection.
 **Challenges, open problems, and trends** 
 
 
-## Slides
+## Slides and links to relevant papers
 
 Coming soon.
 
@@ -84,7 +90,7 @@ He has been a fellow in the ISI foundation, Turin, and a visiting professor in t
 been a senior research scientist and group leader. He obtained his
 PhD in 2003 from Stanford University, USA. 
 He is currently serving as an action editor in the 
-Data Management and Knowledge Discovery journal (DMKD),  
+Data Management and Knowledge Discovery journal (DMKD), 
 and an associate editor in the ACM Transactions on the Web (TWEB). 
 He has contributed in several areas of data science, such as algorithmic data
 analysis, web mining, social-media analysis, data clustering, and
@@ -102,7 +108,7 @@ as well as in many summer schools,
 including the EDBT Summer School 2019 and the Hi! Paris Data Science Summer School 2022.
 
 ### Lutz Oettershagen
-Lutz Oettershagen is a postdoctoral researcher in the Division of  
+Lutz Oettershagen is a postdoctoral researcher in the Division of 
 Theoretical Computer Science at KTH Royal Institute of Technology in 
 Stockholm, Sweden. He has been a postdoctoral researcher at the University 
 of Bonn in Germany, where he also obtained his PhD. He obtained his master's 
@@ -110,6 +116,8 @@ degree at the TU University of Dortmund. His main research interests are
 algorithmic data analysis and data mining on temporal networks, focusing 
 on social networks. In recent works, he covers temporal centrality measures, 
 community search, and tie strength inference in temporal networks.
+
+[Website](https://lutzoe.github.io/)
 
 
 ### Ilie Sarpe
@@ -124,8 +132,8 @@ In particular, recently he focused on efficient algorithms with probabilistic
 guarantees for problems related to collecting patterns and centrality measures 
 in temporal networks.
 
-
 ## Links to Relevant Papers
+
 - **Measures of concurrency in networks and the spread of infectious disease**.  
  Kretzschmar, Mirjam and Morris, Martina.  
  Mathematical biosciences. 1996.  
