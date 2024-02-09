@@ -1,5 +1,5 @@
 # Mining Temporal Networks
-### Tutorial at the [ACM Web Conference 2024](https://www2024.thewebconf.org/)
+### A Tutorial at the [ACM Web Conference 2024](https://www2024.thewebconf.org/)
 
  In World Wide Web (WWW) systems, networks (or graphs) serve as a fundamental 
  tool for representing,  analyzing, and understanding linked data, providing 
@@ -25,7 +25,7 @@ measures, temporal motif counting, and temporal communities to bursty events and
 anomaly detection. 
 
 
-[Previous editions at KDD 2019 and the EDBT19 summer school.](https://rozensp.github.io/KDD19-tutorial-temporal/)
+[Previous editions.](https://rozensp.github.io/KDD19-tutorial-temporal/)
 
 ## Tutorial Content
 
