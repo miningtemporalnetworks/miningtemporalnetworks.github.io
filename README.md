@@ -24,14 +24,14 @@ for temporal network mining---ranging from the computation of temporal centralit
 measures, temporal motif counting, and temporal communities to bursty events and 
 anomaly detection. 
 
-#### Teaser Video
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wJ8gwGiDz6E" target="_blank">
  <img src="http://img.youtube.com/vi/wJ8gwGiDz6E/mqdefault.jpg" alt="Watch the teaser video" width="360" height="160" />
 </a>
 
 
-#### Previous Editions
-[Website of the previous editions.](https://rozensp.github.io/KDD19-tutorial-temporal/)
+#### [Previous Editions.](https://rozensp.github.io/KDD19-tutorial-temporal/)
+
 
 ## Tutorial Content
 
@@ -77,7 +77,7 @@ anomaly detection.
 **Challenges, open problems, and trends** 
 
 
-## Slides and links to relevant papers
+## Slides 
 
 Coming soon.
 
@@ -107,6 +107,9 @@ IJCAI (2011 and 2022),
 as well as in many summer schools, 
 including the EDBT Summer School 2019 and the Hi! Paris Data Science Summer School 2022.
 
+[Website](https://www.kth.se/profile/argioni)
+
+
 ### Lutz Oettershagen
 Lutz Oettershagen is a postdoctoral researcher in the Division of 
 Theoretical Computer Science at KTH Royal Institute of Technology in 
@@ -132,7 +135,10 @@ In particular, recently he focused on efficient algorithms with probabilistic
 guarantees for problems related to collecting patterns and centrality measures 
 in temporal networks.
 
-## Links to Relevant Papers
+[Website](https://iliesarpe.github.io/)
+
+
+## Relevant Papers
 
 - **Measures of concurrency in networks and the spread of infectious disease**.  
  Kretzschmar, Mirjam and Morris, Martina.  
