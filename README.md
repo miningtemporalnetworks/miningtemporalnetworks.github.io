@@ -35,40 +35,21 @@ anomaly detection.
 
 ## Tutorial Content
 
-**Part I: Introduction**
+**Part I: Introduction and Movivation**
 * Motivation and application areas.
 * Main definitions and different types of temporal networks
-
 * Models of temporal networks
-	* Representation of temporality: 
-	static networks with aggregated temporal information
-	dynamic and time-evolving networks with sequential updates
-	sequences of network snapshots
-	sequences of interactions with meta information
-
-	* Combinatorial models: multi-graphs, labeled graphs, sets of temporal edges, temporal hypergraphs
-    * Statistical models: generative models and parameter fitting
-	dynamical processes
-
 * Algorithmic approaches 
 
-	* Streaming model, sliding-window model, sequential updates
-	* Theoretical foundations of network analysis
-
-
-**Part II: Mining temporal networks A: connectivity, temporal properties, centrality, communities** 
-
+**Part II: Mining temporal networks A** 
 * Connectivity, temporal walks and paths, reachability 
-* Temporal properties: burstiness, temporal clustering coefficient, temporal efficiency, topological overlap, etc.
+* Temporal properties
 * Centrality measures
-* Temporal cores, communities, and dense temporal subnetworks
-* Measures of regime change in temporal networks, rules of evolution, etc.
+* Temporal cores decomposition
 
-
-**Part III: Mining temporal networks B: patterns, events, diffusion, random networks**
-
+**Part III: Mining temporal networks B**
+* Temporal communities
 * Temporal patterns: trees, motifs, etc.
-* Frequent patterns, episodes and subgraphs
 * Event detection and structural prediction
 * Diffusion and spreading
 * Synthetic and random network
