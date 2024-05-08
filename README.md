@@ -35,7 +35,7 @@ anomaly detection.
 
 ## Tutorial Content
 
-**Part I: Introduction and Movivation**
+**Part I: Introduction and Motivation**
 * Motivation and application areas.
 * Main definitions and different types of temporal networks
 * Models of temporal networks
