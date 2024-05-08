@@ -54,8 +54,8 @@ anomaly detection.
 * Diffusion and spreading
 * Synthetic and random network
 
-**Tools and code libraries**\
-**Challenges, open problems, and trends** 
+**Part IV: Tools and code libraries**\
+**Part V: Challenges, open problems, and trends** 
 
 
 ## Slides 
