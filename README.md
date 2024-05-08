@@ -273,8 +273,7 @@ in temporal networks.
  Big Data. 2015.  
 [10.1109/bigdata.2015.7363809](https://doi.org/10.1109/bigdata.2015.7363809)
 - **Network science**.  
- Barab\'asi, Albert-L\'aszl\'o and others.  
- . 2016.  
+ Barab\'asi, Albert-L\'aszl\'o and others. 2016.  
 [10.1007/978-1-84996-396-1](https://doi.org/10.1007/978-1-84996-396-1)
 - **Online social networks event detection: a survey**.  
  Cordeiro, M\'ario and Gama, Jo\~ao.  
