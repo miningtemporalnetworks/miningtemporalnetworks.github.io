@@ -26,6 +26,10 @@ anomaly detection.
 
 [![Check our Teaser Video.](https://img.youtube.com/vi/wJ8gwGiDz6E/0.jpg)](https://www.youtube.com/watch?v=wJ8gwGiDz6E)
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=wJ8gwGiDz6E"><img src="https://img.youtube.com/vi/wJ8gwGiDz6E/0.jpg" alt="Check our Teaser Video."></a>
+</div>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wJ8gwGiDz6E" target="_blank">
  <img src="http://img.youtube.com/vi/wJ8gwGiDz6E/mqdefault.jpg" alt="Watch the teaser video" width="360" height="160" />
 </a>
