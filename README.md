@@ -142,8 +142,7 @@ in temporal networks.
  Proceedings of the 12th ACM SIGKDD international conference on Knowledge discovery and data mining. 2006.  
 [10.1145/1150402.1150412](https://doi.org/10.1145/1150402.1150412)
 - **Mining graph data**.  
- Cook, Diane J and Holder, Lawrence B.  
- . 2006.  
+ Cook, Diane J and Holder, Lawrence B. 2006.  
 [10.1002/0470073047](https://doi.org/10.1002/0470073047)
 - **Recovering temporally rewiring networks: A model-based approach**.  
  Guo, Fan and Hanneke, Steve and Fu, Wenjie and Xing, Eric P.  
