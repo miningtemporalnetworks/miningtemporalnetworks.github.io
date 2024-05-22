@@ -58,7 +58,7 @@ anomaly detection.
 
 ## Slides 
 
-Coming soon.
+[Download slides](https://drive.google.com/file/d/13LTabbOdnUSmnFdV4tisuBq-HP0vl0UX/view?usp=drive_link)
 
 ## Tutors
 
