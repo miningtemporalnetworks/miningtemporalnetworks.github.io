@@ -1,5 +1,5 @@
 # Mining Temporal Networks
-### A Tutorial at the [ACM Web Conference 2024](https://www2024.thewebconf.org/)
+### A Tutorial at the [ACM Web Conference 2024](https://www2024.thewebconf.org/) and [SIAM International Conference on Data Mining 2025](https://www.siam.org/conferences-events/siam-conferences/sdm25/)
 
  In World Wide Web (WWW) systems, networks (or graphs) serve as a fundamental 
  tool for representing,  analyzing, and understanding linked data, providing 
